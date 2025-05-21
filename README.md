@@ -27,7 +27,7 @@ Functional Testing<br>
 📌 Test Closure: Identified areas for improving app performance and suggested solutions.<br>
 
 ### 📄 Deliverables<br>
-📌 [Test Cases]([https://docs.google.com/spreadsheets/d/1j7iOCcunGPQmul308Six6uVBnBwwk2fVEIRksn_nXoE/edit?usp=sharing])<br>
+📌 [Test Cases](https://docs.google.com/spreadsheets/d/1j7iOCcunGPQmul308Six6uVBnBwwk2fVEIRksn_nXoE/edit?usp=sharing)<br>
 
 ### 💬 Conclusion<br>
 The identification functional bugs strongly suggests that proactive quality assurance is essential for maintaining an intuitive and error-free user journey.<br>
