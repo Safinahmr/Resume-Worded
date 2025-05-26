@@ -13,6 +13,9 @@ This repository highlights my Manual Testing Project on [Resume Worded](https://
 📌 OS: Mac OS 15.1<br>
 
 ### ⚙️ Testing Types Applied<br>
+Exploratory Testing<br>
+📌 Performed exploratory testing techniques to uncover hidden issues
+
 Functional Testing<br>
 📌 Verified that a specific function behaves as expected<br>
 ▪️ Link testing<br>
